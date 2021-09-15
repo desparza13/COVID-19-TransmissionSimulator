@@ -1,0 +1,2 @@
+# COVID-19-TransmissionSimulator
+COVID-19 has severely impacted our daily life, specially since it is such a contagious disease. Therefore, this simulator tries to tackle and simulate its transmission in order to create awareness of how effective can the use of masks and the vaccination be in stopping the spread of this disease, as well as displaying how social distancing also plays a huge role on the COVID transmission.
