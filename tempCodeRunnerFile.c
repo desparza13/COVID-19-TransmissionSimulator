@@ -1,0 +1,1 @@
+    mostrarMatriz(pCeldas);
